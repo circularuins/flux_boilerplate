@@ -24,7 +24,7 @@ class ExampleApp extends Component{
   }
 
   handleClick(){
-    SampleActions.saySomething("hello");
+    SampleActions.saySomething("hello kojikoji");
   }
 
   render(){
